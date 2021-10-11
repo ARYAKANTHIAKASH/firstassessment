@@ -1,9 +1,9 @@
 1st question
 ans
-•	 LIST, DICTIONARIES are mutable in nature because while we perform
-•	The operations like .append for example l=[] 
-•	l.append(0) 
-•	After doing the append operation on list the address remains same in both cases, That means an object is said to be mutable when it inserts without changing its memory address
+â€¢	 LIST, DICTIONARIES are mutable in nature because while we perform
+â€¢	The operations like .append for example l=[] 
+â€¢	l.append(0) 
+â€¢	After doing the append operation on list the address remains same in both cases, That means an object is said to be mutable when it inserts without changing its memory address
 
 2nd question
 
@@ -92,7 +92,7 @@ ans  def  gen_func(*args,*kwargs):
 
 15th question
 
-ans ME
+ans important[3][-1]
 
 
 
