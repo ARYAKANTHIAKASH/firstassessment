@@ -1,0 +1,161 @@
+1st question
+ans
+•	 LIST, DICTIONARIES are mutable in nature because while we perform
+•	The operations like .append for example l=[] 
+•	l.append(0) 
+•	After doing the append operation on list the address remains same in both cases, That means an object is said to be mutable when it inserts without changing its memory address
+
+2nd question
+
+ans .all of the above  are True
+
+3rd question
+
+ans YES
+
+4th question 
+
+ans NO
+
+5th question
+
+ans
+
+4  False
+
+
+
+
+6th question
+
+ans YES WE CAN CONVERT
+
+
+
+7th question
+
+ans FALSE
+
+
+8th question
+
+ans 'luhar'
+
+
+9th question
+
+ans 'a'
+
+
+
+10th question
+
+ans OPTION A
+1
+2
+3
+4
+5
+
+
+11th question
+
+ans  
+
+def func(seq1,seq2):
+       add = sum(seq1,seq2)
+       return add
+
+
+
+
+12th question
+
+ans 
+
+
+f= lambda seq : print(True) if ('a' in seq and 'e' in seq and 'i' in seq and 'o' in seq and 'u' in seq) else print(False)
+
+
+13th question
+
+
+ans  1   4   9   16   25   36
+
+
+14th question
+
+
+ans  def  gen_func(*args,*kwargs):
+                print(type(args),type(kwargs))
+
+
+15th question
+
+ans ME
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
